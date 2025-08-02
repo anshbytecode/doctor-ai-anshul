@@ -19,7 +19,7 @@ export const Header = () => {
           <div className="flex items-center space-x-6 text-sm text-gray-600">
             <div className="flex items-center space-x-2">
               <Shield className="h-4 w-4 text-green-600" />
-              <span>HIPAA Compliant</span>
+              <span>Stay Safe</span>
             </div>
             <div className="flex items-center space-x-2">
               <Heart className="h-4 w-4 text-red-500" />
