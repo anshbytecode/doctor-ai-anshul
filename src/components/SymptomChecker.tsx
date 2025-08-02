@@ -9,6 +9,7 @@ import { AlertTriangle, Brain, Clock, TrendingUp } from 'lucide-react';
 import { Alert, AlertDescription } from '@/components/ui/alert';
 import { useToast } from '@/hooks/use-toast';
 
+
 interface SymptomCheckerProps {
   onAnalysisComplete: (result: any) => void;
   onNavigateToDoctor: () => void;
