@@ -23,7 +23,7 @@ export const Header = () => {
             </div>
             <div className="flex items-center space-x-2">
               <Heart className="h-4 w-4 text-red-500" />
-              <span>Emergency: 911</span>
+              <span>Emergency: 108</span>
             </div>
           </div>
         </div>
