@@ -12,7 +12,7 @@ export const HealthEducation = () => {
       excerpt: "Learn to differentiate between cold and flu symptoms to make better health decisions.",
       category: "Symptoms",
       readTime: "5 min read",
-      author: "Dr. Jennifer Walsh",
+      author: "Dr. Rahul Gandhi",
       publishDate: "Dec 28, 2024",
       featured: true
     },
@@ -22,7 +22,7 @@ export const HealthEducation = () => {
       excerpt: "Critical warning signs that require immediate medical attention.",
       category: "Emergency Care",
       readTime: "3 min read",
-      author: "Dr. Robert Kim",
+      author: "Dr. Shah thoda rukh Khan",
       publishDate: "Dec 25, 2024",
       featured: true
     },
@@ -32,7 +32,7 @@ export const HealthEducation = () => {
       excerpt: "Evidence-based strategies for living with and managing chronic pain conditions.",
       category: "Pain Management",
       readTime: "8 min read",
-      author: "Dr. Lisa Martinez",
+      author: "Dr. Gabbar Bacchan",
       publishDate: "Dec 22, 2024",
       featured: false
     },
@@ -42,7 +42,7 @@ export const HealthEducation = () => {
       excerpt: "Key lifestyle factors and warning signs for cardiovascular health.",
       category: "Cardiology",
       readTime: "6 min read",
-      author: "Dr. Ahmed Hassan",
+      author: "Dr. Nirav Godi",
       publishDate: "Dec 20, 2024",
       featured: false
     },
@@ -52,7 +52,7 @@ export const HealthEducation = () => {
       excerpt: "Understanding the connection between mental health and physical wellbeing.",
       category: "Mental Health",
       readTime: "7 min read",
-      author: "Dr. Sarah Chen",
+      author: "Dr. Akshay Ambani ",
       publishDate: "Dec 18, 2024",
       featured: false
     },
@@ -62,7 +62,7 @@ export const HealthEducation = () => {
       excerpt: "Essential screenings and checkups by age group and risk factors.",
       category: "Prevention",
       readTime: "4 min read",
-      author: "Dr. Michael Brown",
+      author: "Dr. MS cool",
       publishDate: "Dec 15, 2024",
       featured: false
     }
