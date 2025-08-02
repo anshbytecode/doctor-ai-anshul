@@ -7,6 +7,7 @@ interface NavigationProps {
   setActiveTab: (tab: string) => void;
 }
 
+
 export const Navigation = ({ activeTab, setActiveTab }: NavigationProps) => {
   const tabs = [
     { id: 'symptoms', label: 'Symptom Checker', icon: Activity },
